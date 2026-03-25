@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+python-dotenv
+geopandas
+shapely
+fiona
+pyproj
+rasterio
+numpy
+opencv-python
+matplotlib
+scikit-learn
+scipy
+matplotlib

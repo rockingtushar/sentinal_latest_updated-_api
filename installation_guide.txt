@@ -1,0 +1,12 @@
+python version required : 3.11.5
+
+Create Environent : 
+python -m venv .venv
+
+Activate venv :
+.venv\Scripts\activate
+
+
+Install requiremnts :
+python -m pip install -r requirements.txt
+
